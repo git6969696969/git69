@@ -1,5 +1,5 @@
 <?php
-    $name =  "jirapat";
+    $name =  "Thiraphong";
     $depratment = "Business Computer";
     
     echo $name ." ". $depratment."<br>";
